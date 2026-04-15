@@ -5,3 +5,5 @@ Kevin Ballesteros
 Emily Pintos
 Italo Ruis
 Joaquin Martinez
+Christian de León
+Sebastian Noble
