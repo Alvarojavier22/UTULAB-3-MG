@@ -4,3 +4,4 @@ Este repositorio tiene como finalidad que los estudiantes de tercero de la utu, 
 Kevin Ballesteros
 Emily Pintos
 Italo Ruis
+Joaquin Martinez
