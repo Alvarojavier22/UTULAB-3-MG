@@ -11,3 +11,5 @@ yonathal diaz
 Franco de los santos
 Felipe Iruta
 Anthony Ramos
+Facundo Rocha
+Irina Olivera
